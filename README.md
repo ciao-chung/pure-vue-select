@@ -18,7 +18,7 @@
 ## Install
 
 ```bash
-yarn install pure-vue-select
+yarn add pure-vue-select
 ```
 
 ## Usage
