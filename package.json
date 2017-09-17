@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "chung-ciao",
+  "keywords": [
+    "vue",
+    "vue-select"
+  ],
+  "bugs": {
+    "url": "https://github.com/chung-ciao/pure-vue-select/issues"
+  },
+  "homepage": "https://github.com/chung-ciao/pure-vue-select#readme",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "3",
