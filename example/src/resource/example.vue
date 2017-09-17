@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import ciaoVueSelect from '../../../index.js'
+import pureVueSelect from '../../../index.js'
 export default {
   data: function() {
     return {
@@ -24,7 +24,7 @@ export default {
     }
   },
   components: {
-    'form-select': ciaoVueSelect
+    'form-select': pureVueSelect
   }
 }
 </script>

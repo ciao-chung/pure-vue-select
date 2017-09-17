@@ -1,4 +1,4 @@
-# ciao-vue-select
+# pure-vue-select
 > Pure Vue.js Select
 
 
@@ -18,7 +18,7 @@
 ## Install
 
 ```bash
-yarn install ciao-vue-select
+yarn install pure-vue-select
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ yarn install ciao-vue-select
 **Vue**
 
 ```javascript
-import ciaoVueSelect from 'ciao-vue-select'
+import pureVueSelect from 'pure-vue-select'
 export default {
   data: function() {
     return {
@@ -50,7 +50,7 @@ export default {
     }
   },
   components: {
-    'form-select': ciaoVueSelect
+    'form-select': pureVueSelect
   }
 }
 ```
